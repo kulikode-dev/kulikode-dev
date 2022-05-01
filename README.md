@@ -11,9 +11,9 @@ The development of Information Technology in the business world is often not eas
 - 📫 You can reach Us by whatsapp at [Whatsappp](https://wa.me/6281990835535?text=Hi%2C%20Saya%20ingin%20tahu%20lebih%20lanjut%20mengenai%20KuliKode.com%2C%20mohon%20bantu%20saya.%20Terima%20kasih)
 
 ## Our Values
-- **Problem Solver**, We do an in-depth analysis to find the best solution for you regarding the system to be built..
+- **Problem Solver**, We do an in-depth analysis to find the best solution for you regarding the system to be built.
 - **Collaboration**, We collaborate effectively agilely so that the products produced are timely and appropriate.
-- **Made with Passion**, We work with dedication and passion based on our years of experience..
+- **Made with Passion**, We work with dedication and passion based on our years of experience.
 - **Work Efficiency**, We work with a variety of tools to get the most benefits by using the most efficient energy, time and resources.
 - **Best Practice**, We apply best practice in the industrial world so that the results of work are integrated and scalable in the future.
 
