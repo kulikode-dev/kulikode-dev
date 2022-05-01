@@ -28,6 +28,16 @@ The development of Information Technology in the business world is often not eas
 - **Sistem Manajemen Niaga PT Irian Bhakti**
 - **and many more.**
 
+## Statistics
+
+![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=kulikode-dev&show_icons=true&theme=tokyonight)
+
+![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=kulikode-dev&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)
+
+![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=kulikode-dev&repo_count=7&theme=tokyonight)
+
+![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=kulikode-dev&repo_count=7&theme=tokyonight)
+
 ## Support Kulikode-dev
 Some of the projects we do, we share for free to show you IT-assisted solutions that we can build to help business needs. Support Us with buttons support below:
 
